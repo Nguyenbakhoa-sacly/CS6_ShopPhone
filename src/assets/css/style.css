@@ -18,6 +18,7 @@
   width: 170px;
   height: 42px;
   margin-right: 40px;
+  cursor: pointer;
 }
 
 .header_logo img {
@@ -32,6 +33,7 @@
 }
 
 .header_search input {
+  outline: none;
   width: 320px;
   padding: 10px;
 }
@@ -88,3 +90,32 @@
   font-size: 14px;
   font-weight: 500;
 }
+
+/* banner */
+/* banner left */
+.baner {
+  display: flex;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.baner_left img {
+  height: 340px;
+}
+
+
+/* banner right */
+.baner_right .top {
+  height: 103px;
+
+}
+
+.baner_right .bottom {
+  height: 103px;
+}
+
+.box_right_new {}
+
+.caption_char {}
+
+.item_new {}

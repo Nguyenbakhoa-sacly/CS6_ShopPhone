@@ -1,0 +1,20 @@
+{
+  "BANNER": [
+    {
+      "id": 1,
+      "img": "https://c6.mediawz.com/wp-content/uploads/2023/04/638157124889798203_43C88733-7795-455B-9BDB-AD1649C733CF.jpg"
+    },
+    {
+      "id": 2,
+      "img": "https://c6.mediawz.com/wp-content/uploads/2023/04/638159006091431304_F-H1_800x300.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://c6.mediawz.com/wp-content/uploads/2023/04/ss.jpg"
+    },
+    {
+      "id": 4,
+      "img": "https://c6.mediawz.com/wp-content/uploads/2023/04/638157835990306020_F-H1_800x300.jpg"
+    }
+  ]
+}
